@@ -1,0 +1,6 @@
+VilleVenteDriver.class
+PrixTotVilleMapper.class
+PrixTotVilleReducer.class
+PrixTotVilleDriver.class
+VilleVenteMapper.class
+VilleVenteReducer.class
