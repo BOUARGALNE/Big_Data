@@ -1,0 +1,5 @@
+# Big_Data![image](https://user-images.githubusercontent.com/120935020/235302405-f88340dc-7ebb-482a-83eb-437e7c5af137.png)
+![image](https://user-images.githubusercontent.com/120935020/235302432-34997fb3-79fa-4942-afe9-21909739dffc.png)
+![image](https://user-images.githubusercontent.com/120935020/235302472-8345fe6a-6a8b-4cf7-9137-05ee06c85ae9.png)
+![image](https://user-images.githubusercontent.com/120935020/235302513-82cba383-778d-40d5-9425-d78502b7f6e1.png)
+![image](https://user-images.githubusercontent.com/120935020/235302608-bfcb19c1-13e4-4f12-8a77-bf955bde603c.png)
